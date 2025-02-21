@@ -39,4 +39,8 @@ The extracted data were merged in one CSV file, cleaned and validated in Excel
 
 ![BCLDB Financial performance Dashboard](images/bcldb_dashboard.png) <p align="center"><sub>Figure 2: BCLDB financial performance dashboard</sub></p>
 
+![BCLDB & LCBO Financial performance Dashboard](images/bcldb_lcbo_display.gif)
+
+The work file for this project in Excel is available for d [Download Excel Work File](excel/bcldb_lcbo_financial_analysis.xlsx)
+
 
