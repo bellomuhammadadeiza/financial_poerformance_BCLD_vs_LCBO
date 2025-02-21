@@ -6,10 +6,10 @@ The British Columbia Liquor Distribution Branch (BCLDB) is a government-owned en
 ### 1.2 LCBO Overview
 The Liquor Control Board of Ontario (LCBO) is a Crown corporation owned by the Ontario government. Unlike the BCLDB, the LCBO operates with greater autonomy and functions as a self-sustaining enterprise with its own board of directors.
 ## 2. Data Collection
-### Data Sources
+### 2.1 Data Sources
 - For BCLDB, the financial data was sourced from BCLDB annual reports for fiscal years 2018-2019 through 2023-2024 available at https://www.bcldb.com/publications/annual-report, downloaded as PDF. 
 - For LCBO, the financial data was sourced from LCBO annual reports for fiscal years 2018-2019 through 2023-2024 available at https://www.lcbo.com/content/lcbo/en/corporate-pages/about/annual-report-business-plan-intro.html?srsltid=AfmBOor2Lyn8VQaMGMpQUVGcntO8LjIAy95krFrDekzjz0TD0IAhkE5k
-### Data Extraction
+### 2.2 Data Extraction
 I used the (```Tabula```) in Python to extract the financial statements from the annual reports and then save each statement in CSV format. Using the code below:
   
   ```
@@ -24,10 +24,10 @@ I used the (```Tabula```) in Python to extract the financial statements from the
       print(f"Table {i+1} saved as {csv_filename}")
   
   ```
- ### Data Cleaning
+ ### 2.3 Data Cleaning
 The extracted data were merged in one CSV file, cleaned and validated in Excel
  
-## Exploratory Analysis
+## 3. Exploratory Analysis
 - This was done using Pivot Table in Excel.
 - The financial ratios were calculated via automation using ```calculated items``` under ```Fields, Items & Sets```
 - After calculating all the ratios, ```slicer``` was inserted for company comparison and ```timeline``` for yearly trends
