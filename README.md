@@ -33,5 +33,10 @@ The extracted data were merged in one CSV file, cleaned and validated in Excel
 - After calculating all the ratios, ```slicer``` was inserted for company comparison and ```timeline``` for yearly trends
 - On separate worksheets, the YoY performance/trends of the financial metrics were visualized using the ```line chart``` of the ```pivot chart```, and chart formatting/design was done appropriately using ```chart design```
 - On another worksheet, I created a professional interactive dashboard using the chats and calculated metrics
-- missing data/error ```#DIV/0 Error``` was controlled for using the IFFERROR function in excel
-- 
+- missing data/error ```#DIV/0 Error``` was controlled for using the ```IFFERROR``` function in excel
+
+![LCBO Financial performance Dashboard](images/lcbo_dashboard.png) <p align="center"><sub>Figure 1: LCBO financial performance dashboard</sub></p>
+
+![BCLDB Financial performance Dashboard](images/bcldb_dashboard.png) <p align="center"><sub>Figure 2: BCLDB financial performance dashboard</sub></p>
+
+
