@@ -63,7 +63,7 @@ Debt-to-Asset Ratio: Increased from 0.6 in 2018 to 0.8 in 2023
 Debt-to-Equity Ratio: Rose from 1.5 in 2018 to 4.0 in 2023
 This trend indicates LCBO's increasing use of debt financing for growth and operations.
 
-### 4. 5 These differences stem from
+### 4. 5 These differences could be as a result of
 - Risk Management Approaches: BCLDB's structure minimizes financial risk but limits flexibility, while LCBO's approach allows for more strategic financial management.
 - Growth Strategies: LCBO's debt utilization may enable more growth and investments.
 - Operational Autonomy: LCBO's structure provides more independence in financial decision-making.
