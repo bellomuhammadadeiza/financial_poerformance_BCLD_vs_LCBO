@@ -1,5 +1,7 @@
 # Project Overview
 This project compares the financial performance of BCLDB and LCBO using publicly available financial reports. It involves data extraction, cleaning, analysis, and dashboard visualization to highlight key insights.
+
+###### Completion date (MM/YYYY): 11/2024
 ## 1. Companies Overview
 ### 1.1 BCLDB Overview
 The British Columbia Liquor Distribution Branch (BCLDB) is a government-owned entity responsible for the wholesale distribution, the retail sale of alcoholic beverages, and regulating other private retailers in British Columbia. It operates under the provincial Ministry of Finance. Its management structure is strictly controlled by the provincial government. 
